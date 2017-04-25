@@ -1,0 +1,10 @@
+{
+  "name": "serial-shim",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "serialport": "^4.0.7",
+    "when": "^3.7.8"
+  }
+}

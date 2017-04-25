@@ -1,0 +1,1 @@
+particle compile electron . --saveTo firmware.bin
