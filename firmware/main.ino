@@ -15,6 +15,8 @@ bool led_state = false;
 
 void setup() {
     Serial.begin(9600);
+    pinMode(D7, OUTPUT);
+
     Particle.connect();
 }
 
